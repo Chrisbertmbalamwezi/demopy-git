@@ -1,1 +1,1 @@
-# demopy-git
+print("hello world")
